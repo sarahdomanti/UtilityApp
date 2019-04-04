@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="add_radio">Add Task</string>
+    <string name="editTextHint">To Do Task..</string>
+    <string name="settings">SETTINGS</string>
+    <string name="text_size_label">Text Size</string>
+    <string name="small">Small</string>
+    <string name="regular">Regular</string>
+    <string name="large">Large</string>
+    <string name="done">Done</string>
+    <string name="due_by">Due By:</string>
+    <string name="day">Day:</string>
+    <string name="month">Month:</string>
+    <string name="year">Year:</string>
+    <string name="date_format">dd/mm/yy</string>
+    <string name="clear_all_tasks">Clear all tasks?</string>
+    <string name="clear">Clear</string>
+</resources>
